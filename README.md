@@ -5,31 +5,30 @@ This project implements neural style transfer using PyTorch. The code is organiz
 ## Project Structure
 
 style_transfer/
-│
 
-├── utils/
-
-    ├── init.py
-
-    ├── image_utils.py
-
-├── models/
-
-    ├── init.py
-
-    ├── content_loss.py
-
-    ├── style_loss.py
-
-    ├── vgg.py
-
-    ├── style_transfer.py
-
-├── main.py
-
-├── requirements.txt
-
-└── README.md
+    ├── utils/
+    
+        ├── init.py
+    
+        ├── image_utils.py
+    
+    ├── models/
+    
+        ├── init.py
+    
+        ├── content_loss.py
+    
+        ├── style_loss.py
+    
+        ├── vgg.py
+    
+        ├── style_transfer.py
+    
+    ├── main.py
+    
+    ├── requirements.txt
+    
+    └── README.md
 
 ## Installation
 
