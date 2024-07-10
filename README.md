@@ -13,9 +13,7 @@ style_transfer/
 
 │ ├── image_utils.py
 
-│
-
-├── models/
+│ ├── models/
 
 │ ├── init.py
 
@@ -25,8 +23,7 @@ style_transfer/
 
 │ ├── vgg.py
 
-│
-├── style_transfer.py
+│ ├── style_transfer.py
 
 ├── main.py
 
