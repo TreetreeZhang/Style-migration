@@ -51,4 +51,4 @@ To run the style transfer, execute the main script:
 python main.py
 
 
-Make sure to replace tree.jpg and style.jpg with your own content and style images.
+Make sure to replace content.jpg and style.jpg with your own content and style images.
