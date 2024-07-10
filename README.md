@@ -9,21 +9,21 @@ style_transfer/
 
 ├── utils/
 
-│ ├── init.py
+    ├── init.py
 
-│ ├── image_utils.py
+    ├── image_utils.py
 
-│ ├── models/
+├── models/
 
-│ ├── init.py
+    ├── init.py
 
-│ ├── content_loss.py
+    ├── content_loss.py
 
-│ ├── style_loss.py
+    ├── style_loss.py
 
-│ ├── vgg.py
+    ├── vgg.py
 
-│ ├── style_transfer.py
+    ├── style_transfer.py
 
 ├── main.py
 
